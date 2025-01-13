@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://audmins.com/</loc>
+    <lastmod>2025-01-13T13:39:28+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://audmins.com/index.html</loc>
+    <lastmod>2025-01-13T13:39:28+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://audmins.com/blog.html</loc>
+    <lastmod>2025-01-11T08:16:40+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://audmins.com/portfolio-details.html</loc>
+    <lastmod>2025-01-09T04:17:43+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://audmins.com/blog-details.html</loc>
+    <lastmod>2025-01-11T03:49:15+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+</urlset>
