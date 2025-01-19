@@ -2132,7 +2132,7 @@ section,
 }
 
 /*--------------------------------------------------------------
-# Blog Posts Section
+# Blogs Posts Section
 --------------------------------------------------------------*/
 .blog-posts article {
   background-color: var(--surface-color);
@@ -2218,7 +2218,7 @@ section,
 }
 
 /*--------------------------------------------------------------
-# Blog Pagination Section
+# Blogs Pagination Section
 --------------------------------------------------------------*/
 .blog-pagination {
   padding-top: 0;
@@ -2257,7 +2257,7 @@ section,
 }
 
 /*--------------------------------------------------------------
-# Blog Details Section
+# Blogs Details Section
 --------------------------------------------------------------*/
 .blog-details {
   padding-bottom: 30px;
@@ -2410,7 +2410,7 @@ section,
 }
 
 /*--------------------------------------------------------------
-# Blog Author Section
+# Blogs Author Section
 --------------------------------------------------------------*/
 .blog-author {
   padding: 10px 0 40px 0;
@@ -2451,7 +2451,7 @@ section,
 }
 
 /*--------------------------------------------------------------
-# Blog Comments Section
+# Blogs Comments Section
 --------------------------------------------------------------*/
 .blog-comments {
   padding: 10px 0;
