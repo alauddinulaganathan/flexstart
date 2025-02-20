@@ -2769,3 +2769,10 @@ section,
 .service-details-bullets {
   margin-left: 25px;
 }
+
+/* Ensure div with class service-details-content-scrollable is scrollable only inside #service-details section */
+#service-details .service-details-content-scrollable {
+  height: 100vh; /* Full height of the viewport */
+  overflow: auto;
+  padding-right: 10px; /* Optional: Prevent content from touching scrollbar */
+}
